@@ -1,0 +1,1 @@
+Dans le code j'utilise des dispatch_semaphore_t car macOS ne permet pas d'utiliser les sémaphores POSIX standards.
